@@ -1,0 +1,19 @@
+{
+    "name": "SVG-Logo-Maker",
+    "version": "1.0.0",
+    "description": "A command line SVG file generator. Answer the questions on what you want a basic logo to look like.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
