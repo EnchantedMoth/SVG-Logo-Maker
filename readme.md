@@ -26,5 +26,5 @@ The following image shows a preview SVG given the following input entered by the
 
 [Checkout the repo](https://github.com/EnchantedMoth/SVG-Logo-Maker)
 
-[Watch how to use the application]()
+[Watch how to use the application](https://drive.google.com/file/d/1s5RrdqIVVON3ty574URMfRP0X6S1h2NU/view?usp=drive_link)
 
